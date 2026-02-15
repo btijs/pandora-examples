@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "OpenOCD",
+            "cwd": "${workspaceFolder}",
+            "type": "cortex-debug",
+            "loadFiles": [
+                "${workspaceFolder}/NonSecure/build/cubemx_NS.elf",
+                "${workspaceFolder}/Secure/build/cubemx_S.elf"
+            ],
+            "symbolFiles": [
+                "${workspaceFolder}/NonSecure/build/cubemx_NS.elf",
+                "${workspaceFolder}/Secure/build/cubemx_S.elf"
+            ],
+            "request": "launch",
+            "servertype": "openocd",
+            "serverpath": "openocd",
+            "gdbPath": "gdb",
+            "configFiles": ["debugConfig.cfg"],
+            "serverArgs": ["-s", "${env:SCRIPTS_PATH}", "-d3"],
+            "device": "STM32L552ZETxQ",
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "raw"
+        }
+    ]
+}

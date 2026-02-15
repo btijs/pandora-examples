@@ -1,0 +1,145 @@
+[
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/Core/Src/system_stm32l5xx_s.c.obj -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/system_stm32l5xx_s.c",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/system_stm32l5xx_s.c",
+  "output": "CMakeFiles/STM32_Drivers.dir/Core/Src/system_stm32l5xx_s.c.obj"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -o CMakeFiles/cubemx_S.dir/Core/Src/main.c.obj -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/main.c",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/main.c",
+  "output": "CMakeFiles/cubemx_S.dir/Core/Src/main.c.obj"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -o CMakeFiles/cubemx_S.dir/Core/Src/secure_nsc.c.obj -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/secure_nsc.c",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/secure_nsc.c",
+  "output": "CMakeFiles/cubemx_S.dir/Core/Src/secure_nsc.c.obj"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -o CMakeFiles/cubemx_S.dir/Core/Src/sysmem.c.obj -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/sysmem.c",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/sysmem.c",
+  "output": "CMakeFiles/cubemx_S.dir/Core/Src/sysmem.c.obj"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -o CMakeFiles/cubemx_S.dir/Core/Src/syscalls.c.obj -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/syscalls.c",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Src/syscalls.c",
+  "output": "CMakeFiles/cubemx_S.dir/Core/Src/syscalls.c.obj"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -x assembler-with-cpp -MMD -MP -g -save-temps -o CMakeFiles/cubemx_S.dir/Core/Startup/startup_stm32l552xx.s.obj -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Startup/startup_stm32l552xx.s",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Startup/startup_stm32l552xx.s",
+  "output": "CMakeFiles/cubemx_S.dir/Core/Startup/startup_stm32l552xx.s.obj"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/stm32l5xx.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/stm32l5xx.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/stm32l552xx.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/stm32l552xx.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/core_cm33.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/core_cm33.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_version.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_version.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_compiler.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_compiler.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_armcc.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_armcc.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_armclang_ltm.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_armclang_ltm.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_armclang.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_armclang.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_gcc.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_gcc.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_iccarm.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/cmsis_iccarm.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/mpu_armv8.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Include/mpu_armv8.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/system_stm32l5xx.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/system_stm32l5xx.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/stm32l562xx.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/stm32l562xx.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/partition_stm32l5xx.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Drivers/CMSIS/Device/ST/STM32L5xx/Include/partition_stm32l5xx.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc/partition_stm32l552xx.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc/partition_stm32l552xx.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc/main.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc/main.h"
+},
+
+{
+  "directory": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/build",
+  "command": "/home/tijs/applications/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc -DDEBUG -DSTM32L552xx -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/Core/Inc -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Secure_nsclib -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Device/ST/STM32L5xx/Include -I/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure/../Drivers/CMSIS/Include -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcmse -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -save-temps -c /home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure_nsclib/secure_nsc.h",
+  "file": "/home/tijs/Documents/ingenieur/master-2/2-thesis/arm-test/cubemx/Secure_nsclib/secure_nsc.h"
+}
+]

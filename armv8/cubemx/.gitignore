@@ -1,0 +1,5 @@
+**/build/**
+.cache/
+Debug/
+
+!**/build/cubemx_S.elf
