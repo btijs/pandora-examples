@@ -9,6 +9,7 @@ Note that this repository only contains the open-source examples that we are all
 ## List of examples
 
 ```
+ - ARMv8: Example enclave for ARMv8 architecture
  - Intel DCAP: Driver enclave derived from Linux selftest enclave
  - Inclavare: Skeleton enclave derived from Linux selftest enclave
  - Intel SDK: Example enclave that can be compiled for multiple Intel SDK versions
